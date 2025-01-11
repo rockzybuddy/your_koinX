@@ -11,7 +11,7 @@ const Tokenomics = ({tabs, sectionRefs}) => {
           className="flex items-center justify-center w-36 h-36 bg-gradient-to-tr from-blue-500 to-yellow-400 rounded-full"
           style={{ background: 'conic-gradient(#007bff 0% 80%, #ffc107 80% 100%)' }}
         >
-          <div className='bg-white h-24 w-24 rounded-full text-center'>
+          <div className='bg-[#16052cfc] h-24 w-24 rounded-full text-center'>
 
           </div>
         </div>
